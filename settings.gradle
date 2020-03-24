@@ -1,0 +1,2 @@
+rootProject.name='MiniActiv5B'
+include ':app'

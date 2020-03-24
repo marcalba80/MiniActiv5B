@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiniActiv5B</string>
+    <string name="button1">Download Web Page</string>
+    <string name="button2">Download Image</string>
+    <string name="imagedesc">Downloaded Image</string>
+    <string name="wifi">Wifi connected !</string>
+    <string name="mobile">Mobile connected !</string>
+    <string name="noNetwork">No network operating !!</string>
+</resources>
